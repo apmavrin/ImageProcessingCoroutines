@@ -1,4 +1,4 @@
-package com.devtides.imageprocessingcoroutines
+package space.kotlin.imageprocessingcoroutines
 
 import android.graphics.Bitmap
 import android.graphics.Color
